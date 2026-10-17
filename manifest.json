@@ -1,0 +1,11 @@
+{
+  "name": "CRYPTO BROS: Streets of the Lost Ledger (Dread Experiment)",
+  "short_name": "CB Dread",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#05060d",
+  "icons": [{ "src": "assets/icon_192.png", "sizes": "192x192", "type": "image/png" }]
+}
